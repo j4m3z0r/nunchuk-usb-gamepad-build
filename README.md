@@ -10,7 +10,7 @@ Built to serve as the input controller for a custom (Android‑first) mower cont
 
 ![Finished controller](images/finished-controller.png)
 
-> **Firmware / source code:** https://github.com/j4m3z0r/anavi-handle-sw
+> **Firmware / source code:** **[j4m3z0r/anavi-handle-sw](https://github.com/j4m3z0r/anavi-handle-sw)** — this build's changes are on the [`usb-gamepad-mod`](https://github.com/j4m3z0r/anavi-handle-sw/tree/usb-gamepad-mod) branch (a fork of [AnaviTechnology/anavi-handle-sw](https://github.com/AnaviTechnology/anavi-handle-sw)).
 
 ---
 
@@ -201,6 +201,10 @@ Two firmware changes were made during the build:
 ---
 
 ## Files
+
+All firmware lives in the companion repo
+**[j4m3z0r/anavi-handle-sw](https://github.com/j4m3z0r/anavi-handle-sw)** (changes on the
+[`usb-gamepad-mod`](https://github.com/j4m3z0r/anavi-handle-sw/tree/usb-gamepad-mod) branch):
 
 | File | Role |
 |---|---|
